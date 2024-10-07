@@ -1,6 +1,6 @@
 # MMF-HT24
 Mathematical Modelling of Football - HT24 Uppsala University
-## Assignment 1
+## Assignment 1 - https://github.com/MaxCHENGLONG/MMF-HT24/blob/main/Assignment1/Assignment_1_MMFHT24.pdf
 The exercise
 1, Think of a player who you enjoyed watching at the recent mens Euros 2024 or women's World Cup 2023.
 2, What actions did they perform that were important and why?
