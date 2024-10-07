@@ -26,4 +26,4 @@ The peer review is a graded exercise. 2/50 points in the final grade.
 
 Please do your peer reviews as promptly as possible, with a deadline on Friday 20th September.
 
-## Assignment 2 - 
+## Assignment 2 - https://github.com/MaxCHENGLONG/MMF-HT24/blob/main/Assignment2/Assignment_2_MMFHT24_Technical_Report_Individual_.pdf
