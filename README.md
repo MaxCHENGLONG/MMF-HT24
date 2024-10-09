@@ -26,7 +26,9 @@ The peer review is a graded exercise. 2/50 points in the final grade.
 
 Please do your peer reviews as promptly as possible, with a deadline on Friday 20th September.
 
-## Assignment 2 - https://github.com/MaxCHENGLONG/MMF-HT24/blob/main/Assignment2/Assignment_2_MMFHT24_Technical_Report_Individual_.pdf
+## Assignment 2 - 
+### https://github.com/MaxCHENGLONG/MMF-HT24/blob/main/Assignment2/Assignment_2_MMFHT24_Technical_Report_Individual_.pdf
+### https://github.com/MaxCHENGLONG/MMF-HT24/blob/main/Assignment2/Assignment_2_MMFHT24_Non_Technical_Report_Individual_.pdf
 This is a graded exercise. Deadline is strict.
 
 It is summer of 2018. The head scout of your club (the Premier League one which group you are in) is looking to strengthen the squad with a good signing. She is interested in hearing about how statistical models and machine learning can be used to assess players, so she asks you to create a metric to measure an aspect of play. She then wants to know who the best player in the top five clubs in Europe are in this metric.
